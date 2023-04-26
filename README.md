@@ -33,7 +33,8 @@ Foi consumida uma API pública do GitHub utilizando Typescript para exibir os re
 ![image](https://user-images.githubusercontent.com/106850969/234614031-b7733c0a-ff45-496e-bee8-469e8d54b789.png)
 
 </div>
-> No arquivo acima podemos ver:
+
+<h4 align="center"> No código de src/main.tsx acima podemos ver: </h4>
 
 > 1. A importação do ReactDOM, App, index.css, createBrowserRouter, RouterProvider, Home e ReposPage
 
