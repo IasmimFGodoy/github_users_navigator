@@ -8,7 +8,9 @@ Foi consumida uma API pública do GitHub utilizando Typescript para exibir os re
 </p>
 
 > Clonando este repositório: `git clone https://github.com/IasmimFGodoy/github_users_navigator.git`
+
 > Baixando as dependências: Navegue até a pasta raíz e digite `npm install`
+
 > Rodando o projeto: `npm run dev`
 
 <div align="center">
