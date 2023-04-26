@@ -18,6 +18,7 @@ Foi consumida uma API pública do GitHub utilizando Typescript para exibir os re
 ![image](https://user-images.githubusercontent.com/106850969/234610852-2905537a-029f-4346-86de-492319a5246b.png)
 
 </div>
+
 > <b>src</b>: é o diretório que contém toda a lógica da aplicação
 
 > <b>assets</b>: é o diretório em que está localizado a imagem de fundo inserida no body do HTML
