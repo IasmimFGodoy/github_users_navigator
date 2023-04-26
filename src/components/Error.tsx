@@ -1,6 +1,8 @@
+import classes from './Error.module.css';
+
 const Error = () => {
     return (
-        <div>
+        <div className={classes.error}>
             <p>
                 Usuário não encontrado
             </p>
