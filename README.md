@@ -57,5 +57,5 @@ Foi consumida uma API pública do GitHub utilizando Typescript para exibir os re
 
 https://user-images.githubusercontent.com/106850969/234607520-490be4c7-7830-4f73-bc5e-d3b6fb8c63f1.mp4
 
-<h4 align="center"> Qualquer dúvida não exite em me contactar</h4>
+<h4 align="center"> Qualquer dúvida não hexite em me contactar</h4>
 <p align="center">através do email: iasmimfgodoy@outlook.com ou linkedin: https://www.linkedin.com/in/iasmimgodoydevweb/</p>
